@@ -1,4 +1,4 @@
-Hi 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aahash Suthahar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aahash Suthahar
 =======================================================================================================================================
 
 Undergraduate Computer Engineer Student
@@ -6,7 +6,7 @@ Undergraduate Computer Engineer Student
 
 Ever since I enrolled myself into computer engineering, I've been really keen in learning various languages and understanding the instructional behaviour of computers. So far I have accumulated 3 years of coding experience with languages such as Python, C and Java.
 
-* ✉️  You can contact me at [ahash703@gmail.ccom](mailto:ahash703@gmail.ccom)
+* ✉️  You can contact me at [aahashsuthahar@gmail.com](mailto:aahashsuthahar@gmail.com)
 * 🧠  I'm learning Linux, kernel modules and bash
 
 ### Skills
